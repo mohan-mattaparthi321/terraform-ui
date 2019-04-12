@@ -32,3 +32,6 @@ You can find the first documentation [here](/DOCUMENTATION.md).
 - Add permission system
 - Allow "filesystem" to be located on aws-s3
 - Extend the filesystem to be cached (speed)
+-
+# link for Load Balance
+- https://blog.gruntwork.io/an-introduction-to-terraform-f17df9c6d180 
